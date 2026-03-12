@@ -1,7 +1,8 @@
 ## 👋 Olá! Eu sou o Kauã!
 
 🎯 Desenvolvedor em evolução — 18 anos  
-💻 Formado em Técnico em Informática  
+💻 Formado em Técnico em Informática
+👨🏾‍💻 Cursando Análise e Desenvolvimento de Sistemas 
 🚀 Em busca da minha primeira oportunidade de trabalho  
 
 ---
