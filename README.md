@@ -3,7 +3,7 @@
 🎯 Desenvolvedor em evolução — 18 anos  
 💻 Formado em Técnico de Informática<br>
 👨🏾‍💻 Cursando Análise e Desenvolvimento de Sistemas <br>
-🚀 Em busca da minha primeira oportunidade de trabalho <br> 
+🚀 Em busca da minha primeira oportunidade profissional <br> 
 
 ---
 
