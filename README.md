@@ -25,6 +25,9 @@
   <img align="center" alt="JavaScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="React" height="50" width="60" src="https://img.favpng.com/24/2/12/js-icon-logo-icon-react-icon-png-favpng-V4GKq1D3n3V713pYyrHeAERdm.jpg">
+  <img align="center" alt="Docker" height="50" width="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQes_esUFBXtmGf_Dl5pPnDNAIRVotim4VcXg&s">
+  
 </div>
 
 ---
